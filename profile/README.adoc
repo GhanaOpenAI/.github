@@ -5,7 +5,7 @@
 We are currently working on research projects that improve machine translation, speech synthesis and speech recognition for African languages
 Our community is made up of contributors who support several projects on a voluntary basis. We believe in community driven projects that drive innovation in natural language processing for Ghanaian languages.
 
-You can join our community by sending a request via email - ghanaopenai@gmail.com.
+You can join our community by sending a request via email - info@ghanaopenai.org.
 |
 
 === Featured Projects
