@@ -2,17 +2,19 @@
 [cols="2a,2a"]
 |===
 
-We are currently working on research projects that improve machine translation, speech syhthesis and speech recognition for African languages
-Our community is made up of over 500 contributers who support several projects on a voluntary basis. We believe in community driven projects that drive innovation in natural language processing for Ghanaian languages. 
+We are currently working on research projects that improve machine translation, speech synthesis and speech recognition for African languages
+Our community is made up of contributors who support several projects on a voluntary basis. We believe in community driven projects that drive innovation in natural language processing for Ghanaian languages.
 
 You can join our community by sending a request via email - info@ghananlp.org.
 |
 
 === Featured Projects
 
-- link:https://github.com/GhanaNLP/nsanku[nsanku^], Evaluating zero-shot translation performance of LLMs for Ghanaian languages
-- link:https://github.com/GhanaNLP/GhanaLLM[GhanaLLM^], A project to experiment with LLMs for Ghanaian languages 
-- link:https://github.com/GhanaNLP/nkrane[nkrane^], Terminolgy Controlled Machine Translation for Ghanaian languages
+- link:https://github.com/GhanaOpenAI/ghana-corpus-builder[ghana-corpus-builder^], Streamlined access to high-quality corpora for 38 Ghanaian languages
+- link:https://github.com/GhanaOpenAI/ghana-g2p[ghana-g2p^], Grapheme-to-phoneme conversion for 42 Ghanaian languages, in IPA and native orthography
+- link:https://github.com/GhanaOpenAI/ghana-ipa-asr[ghana-ipa-asr^], Speech to IPA phonemes for 42 Ghanaian and West African languages, running on CPU, GPU or mobile
+- link:https://github.com/GhanaOpenAI/stable-twi-tts[stable-twi-tts^], Twi and Ghanaian English speech synthesis on ONNX - fast, multi-platform and batch-capable
+- link:https://github.com/GhanaOpenAI/ghana-speech-id[ghana-speech-id^], Language identification for Ghanaian and West African speech, over IPA phonemes
+- link:https://github.com/GhanaOpenAI/nsanku-ASR[nsanku-ASR^], Benchmarking ASR models across 41 Ghanaian language varieties
 
-|=== 
-
+|===
